@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-qdrant
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+qdrant-client
+sentence-transformers
+pymupdf
+chainlit
+python-dotenv
+traceloop-sdk==0.62.4
