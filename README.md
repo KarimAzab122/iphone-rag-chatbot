@@ -35,8 +35,6 @@ Create a `.env` file using `.env.example` and provide:
 - COLLECTION_NAME
 - PORT
 
-Never share or commit your `.env` file.
-
 ## Run Locally
 
 Install dependencies:
